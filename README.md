@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Xeonis.github.io/
+https://Xeonis.github.io/rsschool-cv/cv
